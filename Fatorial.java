@@ -1,7 +1,7 @@
 public class Fatorial {
 
 	public static void main(String [] args){
-		System.out.println(calcularFatorial(5));
+		System.out.println("Fatorial de 5 = " + calcularFatorial(5));
 
 	}
 

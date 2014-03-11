@@ -1,3 +1,4 @@
+//Classe Fatorial
 public class Fatorial {
 	//versao iterativa do calculo do fatorial
 	public int calcularFatorial(int n) throws IllegalArgumentException {
